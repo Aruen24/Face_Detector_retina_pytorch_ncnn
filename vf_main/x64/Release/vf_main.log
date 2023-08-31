@@ -1,0 +1,117 @@
+﻿  vf_main.cpp
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\FaceDetector.h(28,21): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(47,25): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(50,58): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(50,42): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(51,69): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(51,53): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(68,122): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(68,83): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(68,57): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(68,38): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(73,77): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(73,57): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(74,90): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(74,60): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(75,90): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(75,60): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(76,90): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(76,60): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(77,90): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(77,60): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(78,90): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\PyCharmProject\Face-Detector-1MB-with-landmark-master\Face_Detector_ncnn\vf_main.cpp(78,60): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  正在生成代码
+  1 of 636 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  vf_main.vcxproj -> D:\vscode\Face_Detector_ncnn\x64\Release\vf_main.exe
